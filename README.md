@@ -11,6 +11,7 @@ Use this application to see how an e-commerce database could be structured on th
 - NodeJS
 - MySQL
 - Sequelize
+- Express
 
 # Installation
 Initialize with 
